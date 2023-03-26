@@ -127,6 +127,6 @@ math: true
 
 출처:
 
-- 뉴시스: http://www.sisa-news.com/news/article.html?no=224748
+- 뉴시스: https://kita.net/cmmrcInfo/cmmrcNews/cmmrcNews/cmmrcNewsDetail.do;JSESSIONID_KITA=700F41A052F002D9048DCAC6F9BFD2B0.Hyper?pageIndex=1&nIndex=72146&sSiteid=1
 - KDI 경제정보센터: https://eiec.kdi.re.kr/policy/domesticView.do?ac=0000073086
 - 대전일보: http://www.daejonilbo.com/news/articleView.html?idxno=2038244
