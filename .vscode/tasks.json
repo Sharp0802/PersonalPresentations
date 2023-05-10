@@ -5,10 +5,7 @@
             "label": "Build All",
             "type": "shell",
             "command": "${workspaceFolder}/build-all.sh",
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            }
+            "group": "build"
         }
     ]
 }
