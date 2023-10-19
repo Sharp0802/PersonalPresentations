@@ -178,3 +178,9 @@ math: true
 
 <img src="https://i.namu.wiki/i/49Xpa6PtuCb4yVwcs6rcl71dKAJEHZa8ESv6-y8iJA1rlE-mkg_Gj-W2WdCy_FngdM_GSLTfelmFwL3k8uK15Q.webp" style="width: 50%;display: inline"/>
 </div>
+
+---
+
+# 출처
+
+- https://www.yna.co.kr/view/AKR20231019001500080
